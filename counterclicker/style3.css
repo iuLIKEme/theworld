@@ -1,0 +1,112 @@
+
+ body {
+    background-image: url("http://steamcommunity-a.akamaihd.net/economy/image/U8721VM9p9C2v1o6cKJ4qEnGqnE7IoTQgZI-VTdwyTBeimAcIoxXpgK8bPeslY9pPJIvB5IWW2-452kaM8heLSRgleGBprdAyO94bKR41OD_W1h367RHADTiSkHU3jfGLrv8x1RtMcd8IEugls0Yv9cGCp95SOJHIMm-lA");
+     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+ }
+
+
+#player1 {
+     width: 350px;
+    text-align: left;
+    margin-top: 0px;
+    margin-left:72px;
+   background-color:black;
+   float:left;
+    border-radius: 55px;
+    border: 2px solid red;
+    padding: 20px; 
+     
+    
+}
+
+#player2 {
+     width: 400px;
+    text-align: left;
+    margin-top: 0px;
+   background-color:black;
+   float:right;
+    border-radius: 25px;
+    border: 2px solid red;
+    padding: 20px; 
+    
+     
+    
+}
+
+
+#title {
+    
+    color:aqua;
+    
+}
+
+
+#number {
+     width: 100px;
+    text-align: left;
+    margin-top: 50px;
+   background-color:black;
+ 
+    border-radius: 25px;
+    border: 1px solid red;
+    padding: 20px; 
+     
+    
+}
+
+
+
+#container {
+    margin: auto;
+    width: 30%;
+    height:300px;
+    border: 3px solid red;
+    padding: 10px;
+     
+    
+}
+
+
+
+
+
+
+#number2 {
+     width: 100px;
+    text-align: left;
+    margin-top: 50px;
+   background-color:black;
+ 
+    border-radius: 25px;
+    border: 1px solid red;
+    padding: 20px; 
+     
+    
+}
+
+
+
+.btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.btn btn-danger {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+}
+
+.btn btn-danger:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+ 
