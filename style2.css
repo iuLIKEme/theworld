@@ -1,0 +1,78 @@
+body {
+    background-image: url("https://i.ytimg.com/vi/KsHUrwV0Kek/maxresdefault.jpg");
+   background-repeat: no-repeat;
+   background-color:black;
+ 
+    
+}
+ 
+
+
+
+
+.searchbar {
+    text-align:left;
+    position:relative;
+    left: 190px;
+    
+}
+
+h4 {
+    color:orange;
+    
+}
+
+h1 {
+    color:green;
+    
+}
+
+h6 {
+    
+  position: relative;
+     color:red;
+     left: 80px;
+     font-style: oblique;
+}
+
+hr {
+    width:0px;
+    
+}
+
+
+ .list {
+     text-align: center;
+     
+   
+ }
+ 
+ 
+ 
+ h3 {
+     position: relative;
+     color:aqua;
+     left: 80px;
+     font-style: oblique;
+ }
+ 
+ 
+.results{
+    text-align: center;
+    color: red;
+    
+}
+ div {
+     text-align:center;
+ }
+ 
+ 
+
+ 
+ div.informations {
+    border: 1px solid aqua;
+    float:right;
+    right:500px;
+}
+
+https://turf-erika-angelopoole-2.c9users.io/index.html ------ site cu web
